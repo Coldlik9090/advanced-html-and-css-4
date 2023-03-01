@@ -1,0 +1,60 @@
+.red{
+  background-color: red;
+  width: 125px;
+  height: 125px;
+  border: none;
+}
+
+.green{
+  border-radius: 75px;
+  background-color: green;
+  width: 125px;
+  height: 125px;
+  margin-top: 4px;
+}
+
+.div-border{
+  margin-top: 4px;
+  border-style: solid;
+  width: 325px;
+  height: 100px;
+  background-color: white;
+  border-color: grey;
+}
+
+.paragraph{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:  500;
+  margin-left: 8px;
+}
+
+.button1{
+  margin-left: 8px;
+}
+
+.div-border2{
+  background-color: rgb(18, 18, 18);
+  margin-top: 4px;
+  border-style: solid;
+  width: 350px;
+  height: 100px;
+
+}
+
+.paragraph2{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-left: 8px;
+  font-weight: 600;
+  width: 325px;
+
+}
+
+.paragraph3{
+  color: grey;
+  margin-left: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+}
+
+
